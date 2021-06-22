@@ -1,0 +1,9 @@
+H:\C#\New Batch\Day5\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+H:\C#\New Batch\Day5\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+H:\C#\New Batch\Day5\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb
+H:\C#\New Batch\Day5\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csprojResolveAssemblyReference.cache
+H:\C#\New Batch\Day5\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+H:\C#\New Batch\Day5\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb
+H:\C#\MT\Batch 3\Day5\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+H:\C#\MT\Batch 3\Day5\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+H:\C#\MT\Batch 3\Day5\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb

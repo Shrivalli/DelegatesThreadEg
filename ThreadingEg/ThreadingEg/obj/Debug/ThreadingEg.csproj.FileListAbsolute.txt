@@ -1,0 +1,6 @@
+H:\C#\New Batch\Day5\ThreadingEg\ThreadingEg\bin\Debug\ThreadingEg.exe.config
+H:\C#\New Batch\Day5\ThreadingEg\ThreadingEg\bin\Debug\ThreadingEg.exe
+H:\C#\New Batch\Day5\ThreadingEg\ThreadingEg\bin\Debug\ThreadingEg.pdb
+H:\C#\New Batch\Day5\ThreadingEg\ThreadingEg\obj\Debug\ThreadingEg.csprojResolveAssemblyReference.cache
+H:\C#\New Batch\Day5\ThreadingEg\ThreadingEg\obj\Debug\ThreadingEg.exe
+H:\C#\New Batch\Day5\ThreadingEg\ThreadingEg\obj\Debug\ThreadingEg.pdb

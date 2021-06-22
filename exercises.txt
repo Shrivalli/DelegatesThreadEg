@@ -1,0 +1,10 @@
+create a test application where you will accept a temperature. if the temperature is below 0c
+the exception has to be raised or else the temperature has to be printed.
+
+create a delegate which points to three methods of loan calculation
+1. Get principal - 50000
+2. get rate of interest 7%
+3. get the duration 3 
+calculate loan
+
+http://www.springpeople.com/training/evaluation/feedback.php?trainingId=4837
